@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Cornell and our lovely Shiba is named Goji.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning Systems:** Model Efficiency, Training Efficiency, Serving Efficiency, Model Compression, Model Quantization, Efficienct AI
+- **Computer Vision:** Stable Diffusion, Object Detection, Semantics Segmentation
+- **NLP:** State-Space Machine, S4, RWKV, RetNet
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2024]** Our paper about serving efficiency is currently under review.
+- **[May. 2023]** Our paper about training efficiency is accepted to NeurIPS 2023.
+- **[July. 2022]** Our paper about multi-component tensor is accepted to ICML 2022 workshop HAET.
 
 {% include_relative _includes/publications.md %}
 
