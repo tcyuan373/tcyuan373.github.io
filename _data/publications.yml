@@ -9,7 +9,7 @@ main:
     image: ./assets/img/pb_illustration.png
     notes: Poster
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "MCTensor: A High-Precision Deep Learning Library with Multi-Component Floating-Point"
     authors: Tao Yu, Wentao Guo, Jianan Canal Li, <strong>Tiancheng Yuan</strong>, Christopher De Sa
     conference_short: ICML 2022 workshop HAET
     conference: International Conference on Machine Learning <strong>(ICML)</strong> 2022 workshop, <strong>(HAET)</strong>.
